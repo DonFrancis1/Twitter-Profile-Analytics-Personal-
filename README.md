@@ -4,8 +4,11 @@ My twitter Profile Data was extracted and visualize.
 
 # Tools Used:
 Microsoft Excel
+
 Microsoft PowerPoint
+
 Power Query
+
 Microsoft Power BI Desktop and Service. 
 
 # Here is the link for the interactive report : 
