@@ -1,4 +1,4 @@
-# Twitter-Profile-Analytics-Personal-
+# Twitter-Profile-Analytics(Personal)
 
 My twitter Profile Data was extracted and visualize. 
 
