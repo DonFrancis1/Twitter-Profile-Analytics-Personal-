@@ -1,5 +1,6 @@
 # Twitter-Profile-Analytics(Personal)
 https://app.powerbi.com/view?r=eyJrIjoiMzY4Mjc0ODgtODc5MS00NjhiLTkwNTUtYTgzOWQwODU5MWQyIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9&pageName=ReportSection
+
 My twitter Profile Data was extracted and visualize. 
 
 # Tools Used:
